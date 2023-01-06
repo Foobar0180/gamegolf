@@ -1,0 +1,12 @@
+{
+  "name": "GameGolfApp",
+  "displayName": "GameGolfApp",
+  "expo": {
+    "name": "GameGolfApp",
+    "slug": "GameGolfApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
